@@ -18,8 +18,8 @@ Each script focuses on a core RF phenomenon:
 | `RF Attenuation vs Distance & Frequency.py` | Models free-space path loss and attenuation over distance and frequency |
 | `Skin Depth vs Frequency & Conductivity.py` | Calculates how deep RF energy penetrates into conductive materials |
 | `Standing Wave Distance vs Length.py` | Displays standing wave patterns along a transmission line |
-| `Standing Wave Pattern with Attenuation.py` | Shows how losses affect standing wave intensity |
-| `Standing Wave Reflection with Complex Load.py` | Simulates mismatched loads using complex impedance and visualizes reflections |
+| `Standing Wave with Attenuation.py` | Shows how losses affect standing wave intensity |
+| `Standing Wave Reflection at Complex Load.py` | Simulates mismatched loads using complex impedance and visualizes reflections |
 | `Wave Propagation Through Dielectric.py` | Models wave behavior through layered dielectrics with custom epsilon and sigma values |
 
 ---
